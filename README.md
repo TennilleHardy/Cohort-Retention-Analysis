@@ -27,3 +27,6 @@ The analysis conducted in this notebook serves various purposes, including:
 * Benchmarking Performance: Comparing retention rates across cohorts and against industry benchmarks enables businesses to gauge their performance and identify areas for improvement.
 
 Overall, monthly cohort retention analysis is a powerful tool for businesses seeking to enhance customer satisfaction, drive growth, and optimize marketing efforts.
+
+
+This notebook makes use of a public dataset on Kaggle called 'Online Retail II dataset' (https://www.kaggle.com/datasets/kabilan45/online-retail-ii-dataset)
